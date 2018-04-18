@@ -16,6 +16,6 @@ The homework and the project of D.I.P
 5. Image super-resolution
    - 计算图像的峰值信噪比PSNR和结构相似性指标 SSIM
    - 不用现成函数实现图像的双三次插值
-   - 根据论文[1Fast Direct Super-Resolution by Simple Functions
-   - ](https://eng.ucmerced.edu/people/cyang35/ICCV13/iccv13_super_supp_v3.pdf)实现图像的超分辨率
+   - 根据论文[Fast Direct Super-Resolution by Simple ](https://eng.ucmerced.edu/people/cyang35/ICCV13/iccv13_super_supp_v3.pdf)实现图像超分辨
+
 
